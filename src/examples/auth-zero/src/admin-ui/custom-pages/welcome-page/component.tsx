@@ -42,7 +42,7 @@ export const WelcomePage = () => (
 			<li>Code that will map the token to the user groups that the user should have.</li>
 			<li>
 				These are already configured in this project. Check the backend/auth folder and
-				backend/index.ts file for more info.
+				backend/index.ts file for more info. asdasa
 			</li>
 		</ul>
 		<Spacer height={10} />
