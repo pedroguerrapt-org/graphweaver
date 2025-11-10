@@ -6,7 +6,7 @@ on:
 
 jobs:
   auth-end-to-end-tests:
-    runs-on: depot-ubuntu-24.04-4
+    runs-on: ubuntu-latest
     defaults:
       run:
         working-directory: src
