@@ -58,3 +58,6 @@ jobs:
           AUTH_BASE_URI: "http://localhost:9000"
           AUTH_WHITELIST_DOMAINS: "localhost"
           AUTH_MAGIC_LINK_RATE_LIMIT: "500"
+          AUTH_JWT_ALGORITHM: "RS256"
+          AUTH_JWT_ISSUER: "graphweaver-tests"
+          AUTH_JWT_AUDIENCE: "graphweaver-tests-audience"
